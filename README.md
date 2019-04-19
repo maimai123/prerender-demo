@@ -30,7 +30,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### add prerender 我用的是vue-cli3.0,设置如下
 > 1、sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
+
 > 2、cnpm install prerender-spa-plugin --save PS:如果是npm安装的话，会发现安装不上Chromium
+
 > 3、在根目录下创建文件vue.config.js
 
 ```
@@ -76,4 +78,5 @@ new Vue({
 }).$mount('#app')
 ```
 >5、router.js 中设置mode: “history”
+
 >6、npm run build
