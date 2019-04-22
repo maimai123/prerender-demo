@@ -19,8 +19,3 @@ export default {
   margin-top: 60px;
 }
 </style>
-
-作者：秦洛1023
-链接：https://www.jianshu.com/p/1a7bbdd8ca4e
-来源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
